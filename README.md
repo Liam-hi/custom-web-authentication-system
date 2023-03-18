@@ -17,3 +17,7 @@ Front-end:
 
 - HTML
 - JavaScript
+
+Original file with CSS:
+
+![alt text](https://github.com/Liam-hi/custom-web-authentication-system/blob/master/media/image.png?raw=true)
