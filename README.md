@@ -10,7 +10,7 @@ In order to authenticate users during the login process, another stored procedur
 
 Back-end: 
 
--Spring Boot
+- Spring Boot
 - MySQL
 
 Front-end:
