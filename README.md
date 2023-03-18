@@ -9,8 +9,11 @@ When a user create a new account (client side), a customised stored procedure is
 In order to authenticate users during the login process, another stored procedure is executed in MySQL to verify whether a specific salt is linked to the provided username. If the username exists, the stored procedure takes the salt and user input to generate a new password, which is then compared with the hashed password stored in the database.
 
 Back-end: 
+
 -Spring Boot
 - MySQL
-Front-end
+
+Front-end:
+
 - HTML
 - JavaScript
